@@ -15,5 +15,5 @@ The **AggiungiGrafo[]** command adds a graph to those considered to draw up the 
 The **TopK** command prints the integer indices of k graphs having the smallest k values. The value of a graph is calculated by the sum of the shortest paths between node 0 and all the other nodes of the graph.
 The top k graphs in the ranking must be printed as follows: the k integer indices are printed, on a single line, separated by a space, in any order.
 
-#Test cases
+# Test cases
 The implementation has been tested with several test, in order to evaluate the efficiency in terms of running time and memory usage. The tests used for debugging are available on this repository. The project has been then evaluated through private tests by a special platform capable of determining the memory occupied and the execution time of the program.
